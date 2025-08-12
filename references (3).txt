@@ -1,0 +1,4 @@
+1. https://passwordmeter.com/
+2. OWASP Passwords Cheat Sheet - https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+3. NIST Guidelines on Digital Identity - https://pages.nist.gov/800-63-3/
+4. https://www.kaspersky.com/resource-center/threats/password-attacks
