@@ -1,0 +1,32 @@
+Password Strength Evaluation Report
+
+1. Passwords Tested:
+   a) password123 → Weak (Score: 20%)
+      - Lacks symbols, too common.
+   b) P@ssw0rd!2025 → Strong (Score: 85%)
+      - Includes uppercase, lowercase, numbers, symbols, and good length.
+   c) Qx9#rT7$Lm2v → Very Strong (Score: 95%)
+      - High complexity, random sequence.
+
+2. Feedback from Tool:
+   - Short or common passwords scored low.
+   - Adding symbols, numbers, and mixed cases improved strength.
+   - Length above 12 characters significantly improved results.
+
+3. Best Practices for Strong Passwords:
+   - Use at least 12–16 characters.
+   - Include uppercase, lowercase, numbers, and symbols.
+   - Avoid dictionary words or predictable sequences.
+   - Consider using a passphrase made of unrelated words.
+
+4. Common Password Attacks:
+   - **Brute Force**: Trying all possible combinations.
+   - **Dictionary Attack**: Using a list of common words/passwords.
+   - **Phishing**: Tricking users into revealing passwords.
+
+5. How Complexity Affects Security:
+   - More complexity increases time required for brute-force attacks.
+   - Random, long passwords are significantly harder to crack.
+   - Avoiding predictable patterns prevents easy dictionary attacks.
+
+Outcome: Understanding of password creation strategies and awareness of attack methods.
